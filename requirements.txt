@@ -21,7 +21,7 @@ cycler==0.10.0
 cymem==2.0.3
 decorator==4.4.2
 distlib==0.3.0
-Django==3.0.4
+Django==3.0.7
 docutils==0.16
 et-xmlfile==1.0.1
 file-search==0.0.3
