@@ -1,2 +1,0 @@
-selenium==3.141.0
-winsound==1.0
