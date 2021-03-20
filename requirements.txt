@@ -38,7 +38,7 @@ idna==2.8
 imageio==2.8.0
 imageio-ffmpeg==0.4.1
 jdcal==1.4.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 jinja2-time==0.2.0
 joblib==0.15.1
 Keras-Preprocessing==1.1.2
